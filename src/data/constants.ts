@@ -11,6 +11,7 @@ export const MENU_LINKS = [
 
 
 export const SOCIAL_LINKS = {
+	portfolio: "https://teona.dev",
 	github: "https://github.com/highflyer910",
 	twitter: "https://twitter.com/highflyer910",
 	discord: "https://discordapp.com/users/283253836234096642",

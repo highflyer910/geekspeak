@@ -1,7 +1,7 @@
 ---
 title: "Create Custom Scrollbar Using CSS"
 publishDate: "17 October 2022"
-description: "Let’s make a nice scrollbar"
+description: "Steps how to make a nice scrollbar"
 tags: ["css", "scrollbar"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "A Short Guide to Python Comprehensions"
 publishDate: "2 September 2020"
-description: "Let’s learn about comprehensions in python"
+description: "Learn about comprehensions in python"
 tags: ["python", "data_structures", "comprehensions"]
 ---
 
