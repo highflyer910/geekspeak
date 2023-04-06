@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://techiestuff.netlify.app/
+Sitemap: https://www.astro-theme-cactus.netlify.app/sitemap-index.xml
