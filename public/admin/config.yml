@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: highflyer910/geekspeak # Branch to update (optional; defaults to master)
 
 collections:
   - name: "post"
@@ -8,16 +8,10 @@ collections:
     folder: "src/content/post"
     create: true
     slug: "{{slug}}"
-    fields: 
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Date"
-        name: "date"
-        widget: "date"
-      - name: "content"
-        label: "Content"
-        type: "markdown"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
-
-media_folder: "public/images/uploads"  
+media_folder: "public/images/uploads"
+public_folder: "/uploads"
