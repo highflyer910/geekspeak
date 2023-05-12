@@ -9,11 +9,11 @@ Geekspeak is a programming blog built using Astro.js. The blog uses the Astro Ca
 
 ## Commands
 
-| Command        | Action                                                         |
-| :------------- | :------------------------------------------------------------- |
-| `npm install` | Installs dependencies                                          |
-| `npm dev`     | Starts local dev server at `localhost:3000`                    |
-| `npm build`   | Build your production site to `./dist/`                        |
+| Command       | Action                                      |
+| :------------ | :------------------------------------------ |
+| `npm install` | Installs dependencies                       |
+| `npm dev`     | Starts local dev server at `localhost:3000` |
+| `npm build`   | Build your production site to `./dist/`     |
 
 ## Acknowledgment
 
