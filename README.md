@@ -2,7 +2,7 @@
   <img alt="Astro Theme Cactus logo" src="./gh-assets/logo.png" width="70" />
 </div>
 <h1 align="center">
-  Geekspeak Blog 🪁
+  Geekspeak Blog
 </h1>
 
 Geekspeak is a programming blog built using Astro.js. The blog uses the Astro Cactus template, which is a free and open-source Astro theme.
@@ -17,7 +17,7 @@ Geekspeak is a programming blog built using Astro.js. The blog uses the Astro Ca
 
 ## Acknowledgment
 
-This blog is built using [Astro Theme Cactus](https://github.com/chrismwilliams/astro-theme-cactus)
+This blog was created using [Astro Theme Cactus](https://github.com/chrismwilliams/astro-theme-cactus)
 
 ## License
 
