@@ -2,15 +2,19 @@ backend:
   name: github
   repo: highflyer910/geekspeak # Branch to update (optional; defaults to master)
 
+publish_mode: editorial_workflow 
+
 collections:
   - name: "post"
     label: "Post"
-    folder: "src/content/post"
+    folder: "content/post"
     create: true
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {label: "Tags", name: "tags", widget: "list"}
       - { label: "Body", name: "body", widget: "markdown" }
 
 media_folder: "public/images/uploads"
