@@ -68,3 +68,5 @@ html {
 In this case, we can't use shadows, gradients, or rounded edges to style it.
 
 That's all folks! :tada: Thank you for reading. For further information, please, check out the [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar#browser_compatibility) resource.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)

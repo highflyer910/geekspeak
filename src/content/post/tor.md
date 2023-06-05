@@ -44,3 +44,5 @@ Tor browser is currently available on [Windows](https://www.torproject.org/downl
 There is a version of Tor Browser for [Android](https://www.torproject.org/download/#android) and [The Guardian Project](https://guardianproject.info/) also provides the [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) app to route other apps on your Android device over the Tor network.
 
 There is no official version of Tor for iOS yet, though they recommend [Onion](https://onionbrowser.com/) Browser.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)

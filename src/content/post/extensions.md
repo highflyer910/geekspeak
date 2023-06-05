@@ -132,3 +132,5 @@ At the moment there are 25 extensions on my Chrome and all are useful for everyd
  
 What are your favorite and must-have extensions? Let's exchange them!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)
+

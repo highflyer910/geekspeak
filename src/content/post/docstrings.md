@@ -36,3 +36,5 @@ The general format for writing a multi-line docstring is:
 As you can see, docstring improves usability and code readability. It will be easy for a programmer who didn't write the code to understand what this or that function does. The most important thing to remember when working with docstrings is that you write the docstring for people who will use your code.
 
 Yet, docstrings is a very vast topic, and If you would like to learn more, then check out the Python DocStrings [PEP257](https://www.python.org/dev/peps/pep-0257/).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)

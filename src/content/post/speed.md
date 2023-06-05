@@ -41,3 +41,5 @@ Personally, I prefer to use **[Imgbot](https://imgbot.net/)**. It compresses all
 Conclusion
 
 Optimizing your website's performance is essential for providing a good user experience and improving search engine rankings. If it takes forever to load, nobody's going to stick around long enough to see what you have to offer. But don't worry, by following these tips you can speed up your webpages and improve overall performance. Implementing them will help you create a faster, more efficient website that users will love.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)

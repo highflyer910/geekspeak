@@ -58,3 +58,5 @@ Go to the main page of your fork on GitHub and click on the highlighted PR messa
 Write a title and in the comments section summarize the work you did. It might be helpful to write something like "This is my first pull request. Let me know if you have any feedback." Click `Create pull request` and leave the box checked that says `Allow edits from maintainers`.
 
 The last step is to be patient and expect changes. Remember, it may take a little while before someone will review your work. After that, you might never get a response or you might get a negative one. Then you can try another issue, another project. And once your work is approved, it will be merged in! You did it! Now you have the skills to contribute to open source projects across the web. Congratulations!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)

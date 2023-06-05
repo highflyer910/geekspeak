@@ -67,3 +67,5 @@ print(new_set)
 List comprehension can help us to write elegant code, but sometimes it is not the right choice. We should avoid writing long list comprehensions in one line to ensure that our final code is readable. Otherwise, it’s better to choose an alternative approach.
 
 You can learn more about Comprehensions [here](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)

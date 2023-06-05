@@ -22,3 +22,5 @@ In this example, the **`GalleryLoader`** component will only be displayed when t
 Using this approach, I was able to create a customizable and reusable spinner component that worked perfectly for my gallery page. By encapsulating the spinner logic in a separate component, I was able to keep my gallery page clean and easy to read, while also improving the user experience by providing feedback during the photo-loading process.
 
 If you're struggling with the same issue, I highly recommend giving the custom component approach a try. Though the best approach will depend on your specific needs and preferences.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)

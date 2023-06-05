@@ -36,3 +36,5 @@ Clickjacking attacks occur when an attacker tricks a user into clicking on a but
 To prevent clickjacking attacks, you should implement frame-busting code, use X-Frame-Options headers, and avoid the use of iframes on your website.
 
 In conclusion, web security is an ever-evolving challenge, and it's essential to stay up-to-date with the latest threats and mitigation techniques. By following the top tips discussed in this post, you can reduce the risk of your website being compromised by malicious attackers. Remember, web security is everyone's responsibility, and a secure web benefits everyone.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)

@@ -41,3 +41,5 @@ Siteimprove Accessibility Checker is an online tool that allows you to test the 
 Accessibility Insights is a free, open-source tool from Microsoft that allows you to test the accessibility of your website. The tool can be used as a browser extension or integrated into your testing framework. Accessibility Insights provides automated testing and manual testing features to help you identify accessibility issues on your website.
 
 In conclusion, making your website accessible to everyone is not only the right thing to do, but it's also good for business. By following these accessibility tips, you can ensure that your website is inclusive to everyone, regardless of their abilities or disabilities.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)
