@@ -38,3 +38,5 @@ Customize this configuration based on your project's specific requirements. For 
 Once you have created the `netlify.toml` file, make sure to commit it to your project's repository and push it to your Netlify site. Netlify will automatically detect the `netlify.toml` file and use it to configure your site.
 
 I hope you find these solutions helpful. Good luck!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)
