@@ -44,6 +44,7 @@
 	"dependencies": {
 		"@astrojs/prefetch": "^0.1.2",
 		"@astrojs/rss": "^2.1.1",
+		"@vercel/analytics": "^1.5.0",
 		"astro": "2.0.17",
 		"satori": "0.4.1",
 		"satori-html": "^0.3.2",
