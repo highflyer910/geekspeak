@@ -114,3 +114,5 @@ But if you're building side projects or working solo, losing data can kill your 
 Now, backups aren’t about peace of mind when I make them;
 They’re about peace of mind when I **restore** them.
 Because backups aren’t about paranoia, they’re about love for your future self. ❤️
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)
