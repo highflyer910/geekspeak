@@ -12,7 +12,7 @@ This is an exciting and powerful feature that allows us to write expressive code
 
 Suppose we want to create a list of squares of even numbers. The first thing that comes in mind would be using for loop, like the one below:
 
-```Python
+```python
 #Iterating over a list using for loop
 new_list = []
 for n in range(10):
@@ -26,7 +26,7 @@ print(new_list)
 
 Let’s see how to rewrite it in a single line of code:
 
-```Python
+```python
 #Iterating over a list using list comprehension
 new_list = [n ** 2 for n in range(10) if n % 2 == 0]
 print(new_list)
@@ -43,7 +43,7 @@ In our example we used if conditional logic:
 
 **Dictionary Comprehension** is similar, but we need the key: value pairs to create a dictionary.
 
-```Python
+```python
 #Dictionary Comprehension
 new_dict = {n: n ** 2 for n in range(10) if n % 2 == 0}
 print(new_dict)
@@ -54,7 +54,7 @@ print(new_dict)
 
 Less popular is **Set Comprehension**, which works in a similar way. It returns a set, which means the elements inside can not have any duplicates.
 
-```Python
+```python
 #Set Comprehension
 numbers = [10, 10, 20, 30, 12, -20]
 new_set = {n**2 for n in numbers}
