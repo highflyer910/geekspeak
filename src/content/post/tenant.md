@@ -183,3 +183,5 @@ The real problem isn’t “choosing wrong”, it’s never launching at all.
 Many companies eventually use both: multi-tenant for most users and single-tenant for large clients like Stripe or GitHub.
 
 If you’re still deciding, start simple. Build, launch, and learn. You can always improve later.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)
