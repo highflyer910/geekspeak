@@ -193,3 +193,5 @@ Directional transitions and custom element animations let your web app feel clos
 
 So next time you update a view, just give it a `view-transition-name`.
 It’s that simple, and the page instantly feels smoother.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7DIE8I)
